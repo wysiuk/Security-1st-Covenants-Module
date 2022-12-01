@@ -1,0 +1,98 @@
+[
+	{
+		"id": 120,
+		"type": "module",
+		"name": "Covenants",
+		"slug": "covenant",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": true,
+		"sz_display_type": "404",
+		"use_standard_fields": true,
+		"system_fields": {
+			"module_field_120_1": {
+				"name": "Deed Book",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_120_2": {
+				"name": "Subdivision ID",
+				"type": "datasource",
+				"live": true,
+				"required": false,
+				"datasource_id": "module_6"
+			},
+			"module_field_120_3": {
+				"name": "Addition ID",
+				"type": "datasource",
+				"live": true,
+				"required": false
+			},
+			"module_field_120_4": {
+				"name": "Subdivision Name",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_120_5": {
+				"name": "Addition Name",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_6": {
+				"name": "Misc Book",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_7": {
+				"name": "Film",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_8": {
+				"name": "Page",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_9": {
+				"name": "Document ID",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_10": {
+				"name": "Date",
+				"type": "date",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_11": {
+				"name": "County ID",
+				"type": "datasource",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_120_12": {
+				"name": "Test",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			}
+		}
+	}
+]
