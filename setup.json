@@ -72,7 +72,8 @@
 				"type": "datasource",
 				"live": true,
 				"required": false,
-				"rich_text": true
+				"rich_text": true,
+				"datasource_id": "webapp_4"
 			},
 			"module_field_120_10": {
 				"name": "Test",
